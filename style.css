@@ -11,25 +11,37 @@ header, footer {
     padding: 20px 0;
 }
 
-nav {
-    background-color: #666;
-}
-
-nav ul {
+ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
-}
-
-nav ul li {
-    display: inline;
-    margin-right: 10px;
-}
-
-nav ul li a {
+    overflow: hidden;
+    background-color: #333333;
+    position: fixed;
+    top: 0;
+    width: 100%;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
     text-decoration: none;
-    color: #fff;
-}
+  }
+  
+  li a:hover:not(.active) {
+    background-color: #111111;
+  }
+  
+  .active {
+    background-color: #111111;
+    color: #ffffff;
+  }
 
 /* Page transition effect */
 .page-content {
