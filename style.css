@@ -12,7 +12,7 @@ header, footer {
 }
 
 nav {
-    background-color: #666666;
+    background-color: #666;
 }
 
 nav ul {
@@ -28,7 +28,17 @@ nav ul li {
 
 nav ul li a {
     text-decoration: none;
-    color: #ffffff;
+    color: #fff;
+}
+
+/* Page transition effect */
+.page-content {
+    transition: opacity 0.5s ease-in-out;
+}
+
+/* Hide content initially */
+.page-hidden {
+    opacity: 0;
 }
 
 main {
