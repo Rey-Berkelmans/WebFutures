@@ -76,3 +76,18 @@ ul {
 main {
     padding: 20px;
 }
+
+.container1 {
+  display: flex; /* Use flexbox layout */
+  align-items: center; /* Align items vertically */
+}
+
+.container1 img {
+  width: 50%; /* Set image width */
+  margin-right: 20px; /* Add space between image and text */
+}
+
+.container1 p {
+  font-size: 16px; /* Set font size for text */
+  line-height: 1.5; /* Set line height for better readability */
+}
