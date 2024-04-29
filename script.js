@@ -27,3 +27,4 @@ document.querySelectorAll('.nav-link').forEach(link => {
         loadPage(url); // Load the new page content
     });
 });
+

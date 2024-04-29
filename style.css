@@ -10,6 +10,9 @@ header {
     text-align: center;
     padding: 20px;
     padding-top: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 footer {
@@ -91,3 +94,4 @@ main {
   font-size: 16px; /* Set font size for text */
   line-height: 1.5; /* Set line height for better readability */
 }
+
