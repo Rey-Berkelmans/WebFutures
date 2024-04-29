@@ -7,7 +7,7 @@ body {
 }
 
 header {
-    background-color: #333333;
+    background-color: #424b62;
     color: #ffffff;
     text-align: center;
     padding: 20px;
@@ -18,7 +18,7 @@ header {
 }
 
 footer {
-    background-color: #333333;
+    background-color: #424b62;
     color: #ffffff;
     text-align: center;
     padding: 20px 0;
@@ -41,7 +41,7 @@ ul {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #333333;
+    background-color: #424b62;
     position: fixed;
     top: 0;
     width: 100%;
@@ -60,11 +60,11 @@ ul {
   }
   
   li a:hover:not(.active) {
-    background-color: #111111;
+    background-color: #242b3f;
   }
   
   .active {
-    background-color: #111111;
+    background-color: #242b3f;
     color: #ffffff;
   }
 
