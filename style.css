@@ -8,7 +8,8 @@ header {
     background-color: #333333;
     color: #ffffff;
     text-align: center;
-    padding: 20px 0;
+    padding: 20px;
+    padding-top: 50px;
 }
 
 footer {
@@ -20,6 +21,14 @@ footer {
   left: 0;
   bottom: 0;
   width: 100%;
+}
+
+h1 {
+  font-size: 40px;
+}
+
+h2 {
+  font-size: 20px;
 }
 
 ul {
