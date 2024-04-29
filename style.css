@@ -5,14 +5,14 @@ body {
 }
 
 header, footer {
-    background-color: #333;
-    color: #fff;
+    background-color: #333333;
+    color: #ffffff;
     text-align: center;
     padding: 20px 0;
 }
 
 nav {
-    background-color: #666;
+    background-color: #666666;
 }
 
 nav ul {
@@ -28,7 +28,7 @@ nav ul li {
 
 nav ul li a {
     text-decoration: none;
-    color: #fff;
+    color: #ffffff;
 }
 
 main {
