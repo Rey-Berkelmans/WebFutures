@@ -4,11 +4,22 @@ body {
     padding: 0;
 }
 
-header, footer {
+header {
     background-color: #333333;
     color: #ffffff;
     text-align: center;
     padding: 20px 0;
+}
+
+footer {
+    background-color: #333333;
+    color: #ffffff;
+    text-align: center;
+    padding: 20px 0;
+    position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
 }
 
 ul {
