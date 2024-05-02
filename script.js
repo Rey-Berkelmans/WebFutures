@@ -1,6 +1,8 @@
-function showPopup() {
-    alert("Hello! This is a pop-up message.");
-}
+// When the user clicks on <div>, open the popup
+function myFunction() {
+    var popup = document.getElementById("myPopup");
+    popup.classList.toggle("show");
+  }
 
 function loadPage(url) {
     fetch(url)
