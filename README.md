@@ -10,8 +10,6 @@ Schmidt, L. (2017). How to Display Site Content Only Your Mobile Viewers Can See
 
 (2024). CSS Forms. W3 Schools. https://www.w3schools.com/css/css_form.asp 
 
-(2024). How TO - Collapse. https://www.w3schools.com/howto/howto_js_collapsible.asp 
-
 (2024). How TO - Popup. W3 Schools. https://www.w3schools.com/howto/howto_js_popup.asp 
 
 (2024). How to Create a Fixed Footer. W3 Schools. https://www.w3schools.com/howto/howto_css_fixed_footer.asp 
