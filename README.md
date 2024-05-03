@@ -2,6 +2,8 @@
 
 # References
 
+Algotruneman. (2016). Coder (improved). Open Clip Art. https://openclipart.org/detail/243747/coder-fixed
+
 Sadler, D. (2024). AI coding tools may produce worse software. Information Age. https://ia.acs.org.au/article/2024/ai-coding-tools-may-produce-worse-software-.html 
 
 Schmidt, L. (2017). How to Display Site Content Only Your Mobile Viewers Can See. HubSpot. https://blog.hubspot.com/marketing/site-content-only-mobile-viewers-can-see-ht?hubs_content=blog.hubspot.com%2Fmarketing%2Fsite-content-only-mobile-viewers-can-see-ht&hubs_content-cta=-medium 

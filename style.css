@@ -117,6 +117,14 @@ main {
 .container4 p {
   font-size: 16px; /* Set font size for text */
   line-height: 1.5; /* Set line height for better readability */
+  padding-bottom: 50px;
+}
+
+.container4 img {
+  width: 30%; /* Set image width */
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .container5 p{
@@ -216,7 +224,7 @@ main {
 input[type=text], select, textarea {
   width: 100%;
   padding: 12px;
-  border: 1px solid #ccc;
+  border: 1px solid #cccccc;
   border-radius: 4px;
   resize: vertical;
 }
