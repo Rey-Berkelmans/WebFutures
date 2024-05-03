@@ -2,13 +2,13 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #5e677d;
+    background-color: #54607e;
     color: white;
     overflow: visible;
 }
 
 header {
-    background-color: #424b62;
+    background: linear-gradient(140deg, #424b62, #1c47b4);
     color: #ffffff;
     text-align: center;
     padding: 10px;
@@ -19,7 +19,7 @@ header {
 }
 
 footer {
-    background-color: #424b62;
+  background: linear-gradient(140deg, #424b62, #1c47b4);
     color: #ffffff;
     text-align: center;
     padding: 20px 0;
@@ -43,7 +43,6 @@ ul {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #424b62;
     position: fixed;
     top: 0;
     width: 100%;
@@ -62,12 +61,12 @@ ul {
   }
   
   li a:hover:not(.active) {
-    background-color: #ffb366;
+    background: linear-gradient(140deg, #ffb366, #ffed81);
     color: #242b3f;
   }
   
   .active {
-    background-color: #242b3f;
+    background: linear-gradient(140deg, #424b62, #0e1832);
     color: #ffffff;
   }
 
@@ -127,10 +126,6 @@ main {
   margin-right: auto;
 }
 
-.container5 p{
-  color: #ffb366;
-}
-
 @media (max-width: 640px)
 {
   .container1{
@@ -175,7 +170,7 @@ main {
 .popup .popuptext {
   visibility: hidden;
   width: 160px;
-  background-color: #ffb366;
+  background: linear-gradient(140deg, #ffb366, #ffed81);
   color: #ffffff;
   text-align: center;
   border-radius: 6px;
@@ -235,7 +230,7 @@ label {
 }
 
 input[type=submit] {
-  background-color: #ffb366;
+  background: linear-gradient(140deg, #ffb366, #ffed81);
   color: #424b62;
   padding: 12px 20px;
   border: none;
@@ -245,12 +240,12 @@ input[type=submit] {
 }
 
 input[type=submit]:hover {
-  background-color: #ff8c1a;
+  background: linear-gradient(140deg, #cd6700, #e0c000);
 }
 
 .container3 {
   border-radius: 5px;
-  background-color: #424b62;
+  background: linear-gradient(140deg, #424b62, #0e1832);
   padding: 20px;
 }
 
@@ -283,7 +278,7 @@ input[type=submit]:hover {
 
 .container {
   width: 100%;
-  background-color: #424b62;
+  background: linear-gradient(140deg, #424b62, #0e1832);
 }
 
 .skills {
@@ -294,6 +289,6 @@ input[type=submit]:hover {
   padding-right: 5px;
 }
 
-.churn {width: 40%; background-color: #ffb366;}
-.decrease {width: 17%; background-color: #ffb366;}
-.copy {width: 11%; background-color: #ffb366;}
+.churn {width: 40%; background: linear-gradient(140deg, #ffb366, #ffed81);}
+.decrease {width: 17%; background: linear-gradient(140deg, #ffb366, #ffed81);}
+.copy {width: 11%; background: linear-gradient(140deg, #ffb366, #ffed81);}

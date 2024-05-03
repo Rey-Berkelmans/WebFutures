@@ -2,7 +2,7 @@
 
 # References
 
-Algotruneman. (2016). Coder (improved). Open Clip Art. https://openclipart.org/detail/243747/coder-fixed
+Argyle, A. Bramus. Kravets, U. (2023). What's new in CSS and UI: I/O 2023 Edition. Chrome for Developers. https://developer.chrome.com/blog/whats-new-css-ui-2023/ 
 
 Sadler, D. (2024). AI coding tools may produce worse software. Information Age. https://ia.acs.org.au/article/2024/ai-coding-tools-may-produce-worse-software-.html 
 
