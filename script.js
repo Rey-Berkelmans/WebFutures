@@ -4,6 +4,8 @@ function myFunction() {
     popup.classList.toggle("show");
   }
 
+  // Attached below is useless code created by ChatGPT. It has been left in to demonstrate AI generated code.
+
 function loadPage(url) {
     fetch(url)
         .then(response => response.text())

@@ -62,7 +62,8 @@ ul {
   }
   
   li a:hover:not(.active) {
-    background-color: #242b3f;
+    background-color: #ffb366;
+    color: #242b3f;
   }
   
   .active {
@@ -118,6 +119,10 @@ main {
   line-height: 1.5; /* Set line height for better readability */
 }
 
+.container5 p{
+  color: #ffb366;
+}
+
 @media (max-width: 640px)
 {
   .container1{
@@ -162,7 +167,7 @@ main {
 .popup .popuptext {
   visibility: hidden;
   width: 160px;
-  background-color: #242b3f;
+  background-color: #ffb366;
   color: #ffffff;
   text-align: center;
   border-radius: 6px;
@@ -222,8 +227,8 @@ label {
 }
 
 input[type=submit] {
-  background-color: #5e677d;
-  color: white;
+  background-color: #ffb366;
+  color: #424b62;
   padding: 12px 20px;
   border: none;
   border-radius: 4px;
@@ -232,7 +237,7 @@ input[type=submit] {
 }
 
 input[type=submit]:hover {
-  background-color: #5e677d;
+  background-color: #ff8c1a;
 }
 
 .container3 {
